@@ -1,5 +1,21 @@
 # claude-work-sample
 
+Un problema real de agentes de IA, resuelto de punta a punta en día y medio (28 de agosto → 1 de septiembre de 2026), con todo lo que se usó a la vista: diseño experimental, un conector MCP construido durante el trabajo, siete transcripts verbatim, lo que falló y lo que costó.
+
+**El problema:** cómo parear a una persona con un aviso de empleo cuando lo que hizo en el pasado no describe lo que va a hacer en el futuro.
+
+**Lo que hay aquí:** un conector MCP propio con siete herramientas documentadas (`conector-mcp/`), orquestación multi-modelo con Opus, Sonnet, Haiku y Fable, diseño de prompts y su corrección iterativa (`RELATO.md`), un experimento de tres brazos computado por SQL sobre 68 bitácoras × 265 avisos (`ESTUDIO.md`), y la gobernanza que lo rodea: permisos declarados por agente, mínimo privilegio para un agente de otro proveedor, inspección de prompt injection y un incidente de costo (`CASA.md`).
+
+**Cómo leerlo.** Si tienes 10 minutos, mira `video/corte_10min_perplexity.mp4`: un Sonnet orquestador lleva veinte minutos en loop y ahí se ve cómo lo diagnostico, qué me devuelven dos modelos y cómo reescribo el prompt. Si tienes un Claude, pásale la URL del repo y dile que empiece por `LLM_START_HERE.md`. Si vas a leer tú, empieza por `POR_QUE.md`.
+
+Las specs y los prompts son míos. El código lo escribieron instancias de Claude y yo verifico contra el código. Quién hizo cada cosa está declarado en `CASA.md`.
+
+Romina Pitronello · [pasaelfiltro.cl](https://pasaelfiltro.cl)
+
+---
+
+*Lo que sigue es la carta con la que nació este repo, del 1 de septiembre de 2026. La dejo tal cual.*
+
 Vicente, me pediste 20 minutos de pantalla trabajando con Claude en un problema real mío. Esto es más que eso, y hay una razón.
 
 En 20 minutos no se ve lo que hago. Mi destreza parte por construir benchmarks y usarlos cuando hace falta, y eso no cabe en dos intercambios. Así que te dejo un problema completo, de punta a punta, resuelto en un día y medio (28 de agosto → 1 de septiembre de 2026): **cómo parear a una persona con un aviso de empleo cuando lo que hizo en el pasado no describe lo que va a hacer en el futuro.** Es mi problema real de esta semana. Es también, creo, el tuyo — con 200 postulaciones encima.
