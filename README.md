@@ -32,6 +32,8 @@ El transcript completo de ese diagnóstico está en `transcripts/05`. La correcc
 
 Publicar la tasa de error propia antes de que la pregunten es parte del método, no un gesto.
 
+El mismo método aplicado a un sistema ajeno, sin acceso y desde la silla del usuario, está en `AUDITORIA_EXTERNA.md`.
+
 ---
 
 ## Dónde vive el trabajo, y qué se puede verificar
@@ -68,6 +70,7 @@ Si para tu decisión necesitas ver el historial privado, se coordina acceso de l
 | `conector-mcp/` | El conector MCP construido durante el trabajo — *Tensión isométrica* — con sus siete herramientas documentadas. | conectable |
 | `paper/` | El estudio preregistrado sobre variabilidad inter-instancia, enviado a *Behavior Research Methods*. El benchmark del que sale el método. | los dos |
 | `CASA.md` | Lo que rodea al problema: siete plumas con permisos declarados, inspector de prompt injection, mínimo privilegio para un agente de otro proveedor, orientación separada de autorización, un incidente de costo. | los dos |
+| `AUDITORIA_EXTERNA.md` | Cinco corridas sobre un producto comercial de selección por voz, desde la silla de la usuaria y sin acceso al sistema. Perímetro declarado, criterios fijados antes, y la línea entre lo que se observa y lo que necesita logs. | los dos |
 | `lab/` | El experimento de la ballena: siete modelos, un system prompt, una sonda conductual. Ocio fecundo. | LLM |
 | `video/` | Corte de 10 minutos en el repo; el completo (4,5 h) en Drive, con índice corregido a hora de reloj y reloj visible en pantalla. | humano |
 | `CRONOLOGIA.md` | Tabla hora ↔ ventana ↔ minuto de video. | LLM |
