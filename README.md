@@ -8,6 +8,8 @@ Las specs y los prompts son míos. El código lo escriben instancias de Claude y
 
 Romina Pitronello · [pasaelfiltro.cl](https://pasaelfiltro.cl)
 
+> Lo más reciente con el mismo método, esta vez con un evaluador externo (un set oculto de 100 tests que puso un tercero): [`frontier-bog26-caja-negra`](https://github.com/rominapitronello/frontier-bog26-caja-negra), 10 de octubre de 2026.
+
 ---
 
 ## No es escribir prompts

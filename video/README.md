@@ -8,7 +8,7 @@ Grabación de pantalla del **lunes 31 de agosto de 2026, 11:14:27 → 15:38:33 h
 
 **`corte_10min_perplexity.mp4`** — 10:31, en esta carpeta. Lunes 31, 12:30–12:41. Un Sonnet en Claude Code, encargado de orquestar una brigada de Haikus para leer 57 avisos, lleva veinte minutos pensando en círculos.
 
-| Minuto del corte | Reloj | Qué pasa | Criterio de Vicente |
+| Minuto del corte | Reloj | Qué pasa | Criterio |
 |---|---|---|---|
 | 00:00 | 12:30 | Romina viene de auditar a mano las trazas de razonamiento del Sonnet. Escribe a un Opus: "¿es mi idea o le subí la perplexity al Sonnet orquestador?" | contexto |
 | 00:35 | 12:31 | El Opus confirma el bucle de indecisión y propone reemplazar el framework por un `for` con `try/catch` | devuelve |
