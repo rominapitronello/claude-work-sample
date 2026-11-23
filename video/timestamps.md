@@ -306,11 +306,11 @@ Recibo el encargo. Lo leo completo antes de mover un so»
 `03:30:10` Muestra opciones de micrófono y guardado · Romina: Despliega el menú Opciones en la barra de captura de pantalla · ⚑ Configurar entrada de audio/destino antes de grabar — «Opciones»  
 `03:43:04` Despliega menú con opciones de modelo y esfuerzo · Romina: Abre el selector de modelo y esfuerzo en Claude Web — «Fable 5»  
 `03:43:20` Inicia generación de respuesta con estado 'Sopesando' · Romina: Envía mensaje de saludo inicial a Claude Fable 5 — «Hola Claude, cómo estás al llegar a este chat?»  
-`03:43:26` Adjunta el archivo markdown en la caja de texto · Romina: Arrastra y adjunta archivo HANDOFF_FABLE_VIDEO_VICENTE.md al chat — «HANDOFF_F...CENTE (1).md»  
+`03:43:26` Adjunta el archivo markdown en la caja de texto · Romina: Arrastra y adjunta archivo HANDOFF_FABLE_VIDEO_[NOMBRE RETIRADO].md al chat — «HANDOFF_F...[…] (1).md»  
 `03:43:27` Fable 5 responde reflexionando sobre su contexto y memoria — «llegando bien, es un momento raro de describir honestamente»  
 `03:45:17` Muestra listado de Pull Requests · Romina: Cambia a la pestaña de GitHub de PasaElFiltro — «PasaElFiltro/pulls»  
 `03:45:27` Carga la descripción y commits del PR #533 · Romina: Abre el Pull Request #533 — «Reinicio de taxonomía — partir por la función real de los roles #533»  
-`03:45:34` Actualiza el borrador del mensaje en el editor · Romina: Vuelve al chat con Fable 5 y redacta explicación detallada de contexto y experimento — «Mira, Vicente nos pidió resolver un problema nuestro»  
+`03:45:34` Actualiza el borrador del mensaje en el editor · Romina: Vuelve al chat con Fable 5 y redacta explicación detallada de contexto y experimento — «Mira, [nombre retirado] nos pidió resolver un problema nuestro»  
 `03:51:30` Configura nuevo hilo con Haiku 4.5 · Romina: Abre un nuevo chat y selecciona el modelo Haiku 4.5 con esfuerzo extendido — «Haiku 4.5»  
 `03:51:48` Haiku inicia procesamiento del saludo · Romina: Envía saludo inicial a Haiku — «Hola Haiku hermoso, cómo estás al llegar a esta ventana?»  
 `03:51:56` Haiku responde mencionando el contexto del OST y canciones — «llego bien, romina. veo tu ost aquí — 289 canciones»  

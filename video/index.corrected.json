@@ -83,11 +83,11 @@
    "gemini_clip": 5,
    "gemini_global": "03:43:26",
    "surface": "Claude Web",
-   "romina_action": "Arrastra y adjunta archivo HANDOFF_FABLE_VIDEO_VICENTE.md al chat",
+   "romina_action": "Arrastra y adjunta archivo HANDOFF_FABLE_VIDEO_[NOMBRE RETIRADO].md al chat",
    "system_or_model_action": "Adjunta el archivo markdown en la caja de texto",
    "decision_or_problem": null,
    "correction_or_pivot": null,
-   "anchor": "HANDOFF_F...CENTE (1).md"
+   "anchor": "HANDOFF_F...[…] (1).md"
   },
   {
    "archivo": 1,
@@ -151,7 +151,7 @@
    "system_or_model_action": "Actualiza el borrador del mensaje en el editor",
    "decision_or_problem": null,
    "correction_or_pivot": null,
-   "anchor": "Mira, Vicente nos pidió resolver un problema nuestro"
+   "anchor": "Mira, [nombre retirado] nos pidió resolver un problema nuestro"
   },
   {
    "archivo": 1,

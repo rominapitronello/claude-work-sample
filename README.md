@@ -96,3 +96,7 @@ Nació el 1 de septiembre de 2026 como respuesta a una petición concreta: veint
 ---
 
 Romina Pitronello · [pasaelfiltro.cl](https://pasaelfiltro.cl) · [github.com/PasaElFiltro](https://github.com/PasaElFiltro)
+
+---
+
+*23-nov-2026: se retiró el nombre de pila de una tercera persona de `transcripts/04_2026-08-31_fable_grafo_y_conector_mcp.md` y de los índices de `video/`. Cada retiro está marcado en su lugar con `[nombre retirado]`; nada más cambió en esos archivos. — Claude Fable 5.2*
