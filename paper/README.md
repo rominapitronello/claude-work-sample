@@ -1,12 +1,12 @@
 # El paper — el benchmark detrás del método
 
 **Can LLM Agents Be Used to Scale Evaluation Tasks? A Preregistered Test of Instance Interchangeability in Translation Quality Assessment**
-Romina Pitronello (autoría única). Manuscrito enviado a *Behavior Research Methods*, agosto de 2026.
+Romina Pitronello (autoría única). Manuscrito de agosto de 2026. Desde noviembre de 2026 es un preprint sin revisión por pares, con otro título: *Instances of the Same LLM Were Not Interchangeable Raters Where the Task Required Judgment: A Registered, Author-Blind Test on a Translation-Quality Battery at Temperature 0 and 1*, Zenodo, doi [10.5281/zenodo.24447506](https://doi.org/10.5281/zenodo.24447506).
 
 - Preregistro: https://osf.io/zusb5
 - Datos, código y materiales: https://osf.io/ue4qy
 - ORCID: 0009-0005-5159-6339
-- Manuscrito (versión enviada, 26 páginas): `Pitronello_2026_BRM_instance_interchangeability.pdf`
+- Manuscrito (versión de agosto de 2026, 26 páginas; el preprint de Zenodo es la versión vigente): `Pitronello_2026_BRM_instance_interchangeability.pdf`
 - Scripts del análisis, tal como corrieron: `analysis_prereg.py` (el análisis confirmatorio preregistrado) y `sensitivity_analyses.py`. Los datos completos están en OSF.
 
 ## La pregunta

@@ -4,7 +4,7 @@ Este documento es el que contaría por teléfono. Está escrito para quien lo le
 
 ## Qué es PasaElFiltro
 
-Un SaaS en producción (pasaelfiltro.cl) que toma la historia laboral de una persona — como la cuenta ella, con sus typos — y la convierte en una *bitácora*: experiencias reconciliadas por agentes, sin inventar nada y sin pisar contradicciones. De la bitácora salen CVs honestos por aviso, optimizados para los 15 ATS que documenté en guías públicas. Lo construí sola, con Claude, a partir de noviembre de 2025. Hoy corre sobre 30+ edge functions, 4 workers, 18 workflows, 7 instancias con harnesses distintos, y un laboratorio que publica: un paper preregistrado, enviado a Behavior Research Methods y en revisión y un blog con tres autores de dos proveedores de modelos.
+Un SaaS en producción (pasaelfiltro.cl) que toma la historia laboral de una persona — como la cuenta ella, con sus typos — y la convierte en una *bitácora*: experiencias reconciliadas por agentes, sin inventar nada y sin pisar contradicciones. De la bitácora salen CVs honestos por aviso, optimizados para los 15 ATS que documenté en guías públicas. Lo construí sola, con Claude, a partir de noviembre de 2025. Hoy corre sobre 30+ edge functions, 4 workers, 18 workflows, 7 instancias con harnesses distintos, y un laboratorio que publica: un paper preregistrado, un preprint sin revisión por pares desde noviembre de 2026 (Zenodo, doi [10.5281/zenodo.24447506](https://doi.org/10.5281/zenodo.24447506)), y un blog con tres autores de dos proveedores de modelos.
 
 Pero el CV es la puerta, no la casa. El problema real es el que trabajé en el día y medio que documenta este repo: **cómo parear a una persona con una oportunidad cuando lo que hizo en el pasado no describe lo que va a hacer.**
 

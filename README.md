@@ -70,7 +70,7 @@ Si para tu decisión necesitas ver el historial privado, se coordina acceso de l
 | `RELATO.md` | El día y medio en orden: qué se pidió a quién, qué falló, qué se corrigió. | los dos |
 | `transcripts/` | Siete sesiones con Claude (Haiku, Opus, Fable), verbatim. Índice en `transcripts/INDEX.md`. | LLM |
 | `conector-mcp/` | El conector MCP construido durante el trabajo — *Tensión isométrica* — con sus siete herramientas documentadas. | conectable |
-| `paper/` | El estudio preregistrado sobre variabilidad inter-instancia, enviado a *Behavior Research Methods*. El benchmark del que sale el método. | los dos |
+| `paper/` | El estudio preregistrado sobre variabilidad inter-instancia; preprint sin revisión por pares desde noviembre de 2026. El benchmark del que sale el método. | los dos |
 | `CASA.md` | Lo que rodea al problema: siete plumas con permisos declarados, inspector de prompt injection, mínimo privilegio para un agente de otro proveedor, orientación separada de autorización, un incidente de costo. | los dos |
 | `AUDITORIA_EXTERNA.md` | Cinco corridas sobre un producto comercial de selección por voz, desde la silla de la usuaria y sin acceso al sistema. Perímetro declarado, criterios fijados antes, y la línea entre lo que se observa y lo que necesita logs. | los dos |
 | `lab/` | El experimento de la ballena: siete modelos, un system prompt, una sonda conductual. Ocio fecundo. | LLM |
